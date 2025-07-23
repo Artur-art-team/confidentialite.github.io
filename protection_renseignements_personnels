@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Privacy Policy</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <style>
+    body { font-family: sans-serif; padding: 2rem; max-width: 800px; margin: auto; line-height: 1.6; }
+    h1 { font-size: 2rem; margin-bottom: 1rem; }
+    h2 { margin-top: 2rem; }
+  </style>
+</head>
+<body>
+  <h1>Privacy Policy</h1>
+  <p>Last updated: July 23, 2025</p>
+
+  <p>This Privacy Policy explains how we collect, use, and protect your personal information when you use our app or website.</p>
+
+  <h2>Information We Collect</h2>
+  <p>When you use our service, we may collect the following information:</p>
+  <ul>
+    <li>Your name and email address (e.g., when logging in with Facebook or Google)</li>
+    <li>Public profile information (e.g., profile picture)</li>
+    <li>Usage data and analytics (non-personal)</li>
+  </ul>
+
+  <h2>How We Use Your Information</h2>
+  <p>We use the information to:</p>
+  <ul>
+    <li>Provide and maintain our service</li>
+    <li>Authenticate users via third-party providers (e.g., Facebook Login)</li>
+    <li>Improve our service and user experience</li>
+  </ul>
+
+  <h2>Data Sharing</h2>
+  <p>We do not sell, rent, or share your personal data with third parties except:</p>
+  <ul>
+    <li>To comply with legal obligations</li>
+    <li>To provide essential services (e.g., hosting, analytics)</li>
+  </ul>
+
+  <h2>Data Deletion</h2>
+  <p>You may request deletion of your data by contacting us at <strong>your@email.com</strong> or by visiting our <a href="https://yourdomain.com/delete">data deletion page</a>.</p>
+
+  <h2>Security</h2>
+  <p>We implement standard security measures to protect your data, but no method of transmission over the internet is 100% secure.</p>
+
+  <h2>Children’s Privacy</h2>
+  <p>Our service is not intended for children under 13. We do not knowingly collect data from children.</p>
+
+  <h2>Changes to This Policy</h2>
+  <p>We may update this Privacy Policy. We will notify users via the app or site if changes are significant.</p>
+
+  <h2>Contact Us</h2>
+  <p>If you have any questions, contact us at <strong>your@email.com</strong>.</p>
+</body>
+</html>
